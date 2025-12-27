@@ -80,3 +80,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Apoorv Mittal
 - **GitHub:** https://github.com/Apoorv012
 - **About:** Third-year B.Tech student in Computer Science. Passionate about Backend development"
+
+- **Name:** Mannat Jain
+- **GitHub:** https://github.com/MK-codes365
+- **About:** First-Year B.Tech student at IIIT Allahabad. Passionate about Competitive Programming and Open Source
